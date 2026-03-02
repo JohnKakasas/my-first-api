@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/JohnKakasas/my-first-api#readme",
   "dependencies": {
+    "body-parser": "^2.2.2",
     "express": "^5.2.1"
   }
 }
